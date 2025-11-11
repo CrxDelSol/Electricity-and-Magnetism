@@ -1,3 +1,32 @@
-title: Course-in-a-Box
-description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
-modules: ["setup", "content", "customize"]
+title: "Electricity and Magnetism"
+description: "A foundational course covering the principles of electricity, magnetism, and their practical applications."
+image: "/img/jumbotron-image.svg"
+
+modules:
+  - title: "Theory"
+    lessons:
+      - title: "Electric Charge, Fields, and Potential Difference"
+        url: "modules/theory/charge-fields-potential"
+      - title: "Voltage, Current, and Resistance"
+        url: "modules/theory/voltage-current-resistance"
+      - title: "Coulomb’s Law and Electric Field Interactions"
+        url: "modules/theory/coulombs-law"
+      - title: "Magnetic Fields and Forces on Conductors"
+        url: "modules/theory/magnetic-fields"
+      - title: "Electricity and Magnetism: Faraday’s Law and Induction"
+        url: "modules/theory/electromagnetic-induction"
+      - title: "Energy and Power in Electrical Systems"
+        url: "modules/theory/energy-power"
+      - title: "Basic Electrical Measurement Tools"
+        url: "modules/theory/measurement-tools"
+
+  - title: "Practical Applications"
+    lessons:
+      - title: "Measuring Voltage, Current, and Resistance"
+        url: "modules/practical/measurements"
+      - title: "Using Magnetic Fields in Devices"
+        url: "modules/practical/magnetic-devices"
+      - title: "Exploring Electromagnetic Induction"
+        url: "modules/practical/induction"
+      - title: "Electrical Safety Procedures"
+        url: "modules/practical/safety"
