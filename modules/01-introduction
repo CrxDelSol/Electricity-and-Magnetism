@@ -1,0 +1,49 @@
+---
+layout: course_page
+title: "Module X: [Replace with your topic title]"
+description: "Overview and key learning objectives for this module."
+---
+
+# 🎯 Learning Objectives
+By the end of this module, you should be able to:
+- Explain [main concept]
+- Describe [key relationship or law]
+- Apply [formula, method, or technique]
+
+# 📘 Theory
+Introduce the concept clearly and concisely. Include definitions, principles, and visual explanations.  
+You can embed images like this:
+
+![Example Image](../img/example.png)
+
+Equations can be written inline like `V = I × R` or in display mode using LaTeX:
+
+$$
+I = \frac{V}{R}
+$$
+
+# ⚙️ Example / Demonstration
+Show a real-world example or a short calculation.
+
+**Example:**  
+If a circuit has a 9 V battery and a 3 Ω resistor, the current is:
+
+$$
+I = \frac{V}{R} = \frac{9}{3} = 3 \text{A}
+$$
+
+# 🧪 Practice Activity
+- Try building or simulating a simple circuit related to this concept.  
+- Record your measurements and compare them with predictions.  
+- Use a multimeter to confirm values when possible.
+
+# 💡 Reflection / Quiz
+- What happens to current if resistance doubles?  
+- How does [concept] apply to real-world devices?  
+- Can you think of an example from daily life?
+
+*(Optional: link to a Google Form quiz here, e.g. [Take the quiz](https://forms.gle/your-form-id))*
+
+# 📚 Additional Resources
+- [OpenStax: College Physics, Chapter X](https://openstax.org/books/college-physics)  
+- [YouTube: Khan Academy – Topic Name](https://www.youtube.com/results?search_query=khan+academy+[topic])
